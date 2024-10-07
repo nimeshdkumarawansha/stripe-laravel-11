@@ -76,7 +76,7 @@ For testing purposes, you can use the following test card details:
 - Month: 07
 - Year: 2027
 - CVV: 123
-
+- Zip code: 33634
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
